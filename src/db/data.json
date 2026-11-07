@@ -1,0 +1,83 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": "m2_A6b2xb-A"
+    },
+    {
+      "day": 5,
+      "id": "tye0ChxbT3g"
+    }
+  ],
+  "words": [
+    {
+      "id": "1",
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "id": "3",
+      "day": 2,
+      "eng": "apple",
+      "kor": "사과",
+      "isDone": false
+    },
+    {
+      "id": "6",
+      "day": 3,
+      "eng": "key",
+      "kor": "열쇠",
+      "isDone": false
+    },
+    {
+      "day": 1,
+      "eng": "computer",
+      "kor": "컴퓨터",
+      "isDone": false,
+      "id": "72I4kPzuF-s"
+    },
+    {
+      "day": 2,
+      "eng": "water",
+      "kor": "물",
+      "isDone": false,
+      "id": "uQyJ6LTzuJk"
+    },
+    {
+      "day": 4,
+      "eng": "egg",
+      "kor": "계란",
+      "isDone": true,
+      "id": "bRYyLeV6vok"
+    },
+    {
+      "day": 1,
+      "eng": "ear",
+      "kor": "",
+      "isDone": false,
+      "id": "TptHFTTS_6E"
+    },
+    {
+      "day": 5,
+      "eng": "bag",
+      "kor": "가방",
+      "isDone": false,
+      "id": "H97dOCUWL10"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
